@@ -1,0 +1,22 @@
+{
+    "test_0403": {
+        "divided_val_unseen": {
+            "success": {
+                "num_successes": 0,
+                "num_evals": 1078,
+                "success_rate": 0.0
+            },
+            "goal_condition_success": {
+                "completed_goal_conditions": 1,
+                "total_goal_conditions": 2,
+                "goal_condition_success_rate": 0.5
+            },
+            "path_length_weighted_success_rate": 0.0,
+            "path_length_weighted_goal_condition_success_rate": 0.5,
+            "num_predicted_stops": 0,
+            "num_fails_by_api_limit": 0,
+            "num_fails_by_traj_len_limit": 0,
+            "num_fails_by_error": 1077
+        }
+    }
+}

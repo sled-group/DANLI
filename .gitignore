@@ -1,0 +1,14 @@
+.idea/
+*.iml
+venv
+__pycache__/
+.DS_Store
+.coverage
+build
+dist
+*.egg-info/
+.vscode/
+models
+teach-dataset
+evals
+*.pyc
