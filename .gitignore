@@ -8,7 +8,7 @@ build
 dist
 *.egg-info/
 .vscode/
-models
-teach-dataset
-evals
+/models
+/teach-dataset
+/evals
 *.pyc

@@ -64,7 +64,7 @@ if __name__ == "__main__":
         )
     # datasets["train"] = SubgoalDataset(tokenizer, args=model_args, split=None)
 
-    device = "cuda:1"
+    device = "cuda:0"
     print("Create model...")
     model_ckpt = os.path.join(
         eval_args.subgoal_predictor_dir, eval_args.subgoal_predictor_ckpt
